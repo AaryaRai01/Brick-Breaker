@@ -1,6 +1,6 @@
 # 🧱 Brick Breaker Game (HTML/JS)
 
-A classic arcade-style Brick Breaker (or Breakout) game built with **HTML, CSS, and JavaScript**. The objective is to break all the bricks on the screen without letting the ball fall past your paddle.
+A classic arcade-style Brick Breaker (or Breakout) game built with **HTML, and JavaScript**. The objective is to break all the bricks on the screen without letting the ball fall past your paddle.
 
 
 
@@ -34,7 +34,6 @@ https://github.com/user-attachments/assets/be827a83-88cb-4e2a-847c-3fa63b01e4a0
 This project is built entirely with web technologies. All you need to run it is a modern web browser.
 
 * HTML5
-* CSS3
 * JavaScript (ES6)
 
 ---
